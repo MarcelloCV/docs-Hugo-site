@@ -1,4 +1,4 @@
-baseURL: https://marcellocv.github.io/docs-Hugo-site/public
+baseURL: https://marcellocv.github.io/docs-Hugo-site/
 languageCode: en-us
 title: My New Hugo Site
 theme: hextra
