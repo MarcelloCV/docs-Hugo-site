@@ -1,8 +1,13 @@
+# For development only
+# baseURL: http://localhost:1313
+
+# For production only
 baseURL: https://marcellocv.github.io/docs-Hugo-site/
+
 languageCode: en-us
 title: My New Hugo Site
 theme: hextra
 
-caches:
-  images:
-    dir: :cacheDir/images
+# caches:
+  # images:
+    # dir: :cacheDir/images
